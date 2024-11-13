@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Mohamed ibrahim elsayed ibrahim idris but i go by Mczdj or MC for short
+- 👋 Hi, My name is Mohamed ibrahim  idris but i go by Mczdj or MC for short
 - 👀 I’m interested in CyberSecurity Engineering 
 - 🌱 I’m currently learning how i can complete a bug bounty 
 - ⚡ Fun fact: i enjoy streaming on twitch :p
