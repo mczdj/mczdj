@@ -81,12 +81,14 @@ Goal          Build practical security expertise and contribute to safer systems
 
 ### Security and Networking
 
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4F5D95?style=flat-square)
-![Scapy](https://img.shields.io/badge/Scapy-Packet%20Crafting-6d28d9?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Security%20Labs-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+[![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4F5D95?style=flat-square)](https://nmap.org/)
+[![Scapy](https://img.shields.io/badge/Scapy-Packet%20Crafting-6d28d9?style=flat-square)](https://scapy.net/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Security%20Labs-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 ![Network Security](https://img.shields.io/badge/Network%20Security-Defensive%20%26%20Offensive-22d3ee?style=flat-square)
+
+<sub>Click a tool badge to open its official website.</sub>
 
 ## 🧪 Hands-On Security Platforms
 
