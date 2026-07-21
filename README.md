@@ -179,18 +179,34 @@ A TkCircuit-based monitoring system with temperature-state logic, emergency aler
 
 [View my complete work, volunteering, and events experience](https://mczdj.github.io/#experience)
 
-## 📊 GitHub Activity
+## 🛰️ Live GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mczdj&show_icons=true&hide_border=true&theme=midnight-purple&title_color=a78bfa&icon_color=22d3ee&text_color=d8d8e8&bg_color=0d0714" width="49%" alt="Mohamed Idris GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mczdj&layout=compact&hide_border=true&theme=midnight-purple&title_color=a78bfa&text_color=d8d8e8&bg_color=0d0714" width="49%" alt="Most used languages" />
+### 3D Contribution Calendar
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Mohamed Idris 3D GitHub contribution calendar" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mczdj&bg_color=0d0714&color=a78bfa&line=22d3ee&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+### Profile Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mczdj&theme=tokyonight" width="100%" alt="Mohamed Idris GitHub profile summary" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mczdj&theme=tokyonight" width="49%" alt="Repositories by language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mczdj&theme=tokyonight&utcOffset=4" width="49%" alt="Productive coding time" />
+
+<br>
+
+### Recent Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mczdj&theme=tokyo-night&area=true&hide_border=true&radius=12&custom_title=Mohamed%20Idris%20-%20Recent%20GitHub%20Activity" width="100%" alt="Mohamed Idris recent GitHub contribution activity" />
 
 </div>
+
+> The 3D contribution calendar is generated automatically by GitHub Actions and refreshed every day.
 
 ## 🌐 Explore My Portfolio
 
