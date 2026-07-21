@@ -29,6 +29,26 @@
 
 ---
 
+## 🛰️ Live GitHub Activity
+
+<div align="center">
+
+### Recent Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mczdj&theme=tokyo-night&area=true&hide_border=true&radius=12&custom_title=Mohamed%20Idris%20-%20Recent%20GitHub%20Activity" width="100%" alt="Mohamed Idris recent GitHub contribution activity" />
+
+<br>
+
+### 3D Contribution Calendar
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Mohamed Idris 3D GitHub contribution calendar" />
+
+</div>
+
+> The 3D contribution calendar is generated automatically by GitHub Actions and refreshed every day.
+
+---
+
 ## 👋 About Me
 
 I am **Mohamed Idris**, a Cybersecurity Engineering student at **Abu Dhabi University** with hands-on experience in IT support, network security, penetration-testing labs, Raspberry Pi security projects, and cybersecurity awareness initiatives.
@@ -178,35 +198,6 @@ A TkCircuit-based monitoring system with temperature-state logic, emergency aler
   Digital course content, front-end implementation, quality control, and team coordination.
 
 [View my complete work, volunteering, and events experience](https://mczdj.github.io/#experience)
-
-## 🛰️ Live GitHub Activity
-
-<div align="center">
-
-### 3D Contribution Calendar
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Mohamed Idris 3D GitHub contribution calendar" />
-
-<br>
-
-### Profile Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mczdj&theme=tokyonight" width="100%" alt="Mohamed Idris GitHub profile summary" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mczdj&theme=tokyonight" width="49%" alt="Repositories by language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mczdj&theme=tokyonight&utcOffset=4" width="49%" alt="Productive coding time" />
-
-<br>
-
-### Recent Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mczdj&theme=tokyo-night&area=true&hide_border=true&radius=12&custom_title=Mohamed%20Idris%20-%20Recent%20GitHub%20Activity" width="100%" alt="Mohamed Idris recent GitHub contribution activity" />
-
-</div>
-
-> The 3D contribution calendar is generated automatically by GitHub Actions and refreshed every day.
 
 ## 🌐 Explore My Portfolio
 
